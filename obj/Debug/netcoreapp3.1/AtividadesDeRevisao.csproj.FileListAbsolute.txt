@@ -1,0 +1,14 @@
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\bin\Debug\netcoreapp3.1\AtividadesDeRevisao.exe
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\bin\Debug\netcoreapp3.1\AtividadesDeRevisao.deps.json
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\bin\Debug\netcoreapp3.1\AtividadesDeRevisao.runtimeconfig.json
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\bin\Debug\netcoreapp3.1\AtividadesDeRevisao.runtimeconfig.dev.json
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\bin\Debug\netcoreapp3.1\AtividadesDeRevisao.dll
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\bin\Debug\netcoreapp3.1\AtividadesDeRevisao.pdb
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\obj\Debug\netcoreapp3.1\AtividadesDeRevisao.csproj.AssemblyReference.cache
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\obj\Debug\netcoreapp3.1\AtividadesDeRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\obj\Debug\netcoreapp3.1\AtividadesDeRevisao.AssemblyInfoInputs.cache
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\obj\Debug\netcoreapp3.1\AtividadesDeRevisao.AssemblyInfo.cs
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\obj\Debug\netcoreapp3.1\AtividadesDeRevisao.csproj.CoreCompileInputs.cache
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\obj\Debug\netcoreapp3.1\AtividadesDeRevisao.dll
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\obj\Debug\netcoreapp3.1\AtividadesDeRevisao.pdb
+C:\Users\Apex09\Desktop\Marcelo.D\Aula4-C-\AtividadesDeRevisao\obj\Debug\netcoreapp3.1\AtividadesDeRevisao.genruntimeconfig.cache
